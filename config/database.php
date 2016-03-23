@@ -55,7 +55,7 @@ return [
         //连接数据库
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => "127.0.0.1",
+            'host'      => "192.168.1.86",
             'database'  => "285u",
             'username'  => "root",
             'password'  => "root",
